@@ -21,6 +21,10 @@
 - [方法(function)](./basic/functions.md)
 - [控制流](./basic/flow_ctrl.md)
 - [其他类型](./basic/more_types.md)
+- [练习](./basic/exercise.md)
+- [指针](basic/pointer.md)
+- [结构体](./basic/sturct.md)
+- [数组与切片](basic/Array.md)
 
 ### 方法(Methods)和接口
 
