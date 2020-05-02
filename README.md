@@ -10,7 +10,7 @@
 
 现在是2020/5/1-0:27。反正这次春招也是0 offer，不如学个习放松一下。给大脑来个马杀鸡
 
-![prerequisites](prerequisites.png)
+![prerequisites](./img/prerequisites.png)
 
 ## 目录
 
@@ -27,8 +27,8 @@
 - [其他类型](./basic/more_types.md)
 - [指针](basic/pointer.md)
 - [结构体](./basic/sturct.md)
-- [数组与切片](basic/Array.md)
-- [映射](basic/map.md)
+- [数组与切片](./basic/Array.md)
+- [映射](./basic/map.md)
 
 以上内容在2020年5月1日15:57分完成, 下午午睡睡多了。
 
@@ -36,6 +36,8 @@
 
 - [方法](./Methods_and_interfaces/methods.md)
 - [接口](./Methods_and_interfaces/interfaces.md)
+
+以上内容在2020年5月2日15:15分完成, 早上还是**不小心**偷懒了。
 
 ### 并发
 

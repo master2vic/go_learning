@@ -1,4 +1,4 @@
-# 变量
+# 控制流
 
 ## 正文
 
@@ -132,8 +132,8 @@ func main() {
 4
 ~~~
 
-## 连接
+## 链接
 
 | 目录 | next |
 | --   |  --  |
-| [TOC](./TOC.md) | [变量](../Methods_and_interfaces/methods_and_interfaces.md) |
+| [TOC](../TOC.md) | [其他类型](./more_types.md) |

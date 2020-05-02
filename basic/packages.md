@@ -8,7 +8,7 @@ package main
 import (
 	"fmt"
 	"math/rand"
-)
+)	
 
 import "math/cmplx"
 
@@ -38,8 +38,8 @@ func main() {
 
 好像成员变量也是这个要求。
 
-## 连接
+## 链接
 
 | 目录 | next |
 | --   |  --  |
-| [TOC](./TOC.md) | [变量](./functions.md) |
+| [TOC](../TOC.md) | [变量](./variables.md) |

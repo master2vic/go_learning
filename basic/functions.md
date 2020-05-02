@@ -58,8 +58,8 @@ func main() {
 }
 ~~~
 
-## 连接
+## 链接
 
 | 目录 | next |
 | --   |  --  |
-| [TOC](./TOC.md) | [变量](./variables.md) |
+| [TOC](../TOC.md) | [控制流](./flow_ctrl.md) |

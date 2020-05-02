@@ -93,8 +93,8 @@ go是默认初值为**0值**，0值不是0。是：
 
 但是c++还不能全部初始化，因为头文件里面的会出现multi define的情况。
 
-## 连接
+## 链接
 
 | 目录 | next |
 | --   |  --  |
-| [TOC](./TOC.md) | [变量](./more_types.md) |
+| [TOC](../TOC.md) | [方法](./functions.md) |

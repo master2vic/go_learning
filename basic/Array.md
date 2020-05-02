@@ -194,3 +194,9 @@ for i := range pow {
 ## 相关阅读
 
 [切片的本质](https://blog.go-zh.org/go-slices-usage-and-internals)
+
+## 链接
+
+| 目录 | next |
+| --   |  --  |
+| [TOC](../TOC.md) | [映射](./map.md) |
