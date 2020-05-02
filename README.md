@@ -14,6 +14,10 @@
 
 ## 目录
 
+### 练习题
+
+- [练习](./exercise.md)
+
 ### 基础
 
 - [包](./basic/packages.md)
@@ -25,11 +29,13 @@
 - [结构体](./basic/sturct.md)
 - [数组与切片](basic/Array.md)
 - [映射](basic/map.md)
-- [练习](./basic/exercise.md)
+
+以上内容在2020年5月1日15:57分完成, 下午午睡睡多了。
 
 ### 方法(Methods)和接口
 
-- [方法和接口](./Methods_and_interfaces/methods_and_interfaces.md)
+- [方法](./Methods_and_interfaces/methods.md)
+- [接口](./Methods_and_interfaces/interfaces.md)
 
 ### 并发
 
